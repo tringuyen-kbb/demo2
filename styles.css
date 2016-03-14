@@ -1,3 +1,11 @@
 pre {
     background-color: cyan;
 }
+.guideline {
+    border: solid 1px #dcdcdc;
+    padding: 10px;
+}
+.guideline .heading {
+    font-weight: bold;
+    text-decoration: underline;
+}

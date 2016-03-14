@@ -9,3 +9,7 @@ pre {
     font-weight: bold;
     text-decoration: underline;
 }
+.hotfix {
+    background: red;
+    color: yellow;
+}
